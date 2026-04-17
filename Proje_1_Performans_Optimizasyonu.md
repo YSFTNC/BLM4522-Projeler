@@ -1,4 +1,8 @@
 # 1. Veritabanı Performans Optimizasyonu ve İzleme
+**Proje Sunum Videosu (Tıkla İzle):** [https://youtu.be/Hy0qcHGLNwg]
+
+
+# 1. Veritabanı Performans Optimizasyonu ve İzleme
 *Bu belgede AdventureWorks veritabanı üzerinde yapılan sorgu optimizasyonu ve indeksleme süreçleri anlatılmaktadır.*
 
 ## 1.1. Sorunlu Sorgunun Tespiti ve İzlenmesi
